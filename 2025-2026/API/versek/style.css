@@ -1,0 +1,43 @@
+
+@font-face {
+    font-family: "sajat1";
+    src: url("Nexa-ExtraLight.ttf");
+}
+
+@font-face {
+    font-family: "sajat2";
+    src: url("Kirsty\ Bd.otf");
+}
+
+@font-face {
+    font-family: "sajat3";
+    src: url("DCC\ -\ Ash.otf");
+}
+
+@font-face {
+    font-family: "sajat4";
+    src: url("AMORIA.otf");
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: black;
+    text-align: center;
+    font-family: sajat1;
+}
+
+#fejlec {
+    font-family: sajat2;
+}
+
+#jobb {
+    font-family: sajat3;
+}
+
+#bal {
+    font-family: sajat4;
+}
